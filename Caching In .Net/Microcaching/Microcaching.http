@@ -1,0 +1,13 @@
+@My_HostAddress = http://localhost:5075
+
+// REMEMBER TO RUN IN RELEASE MODE !
+
+// STATS
+GET {{My_HostAddress}}/stats/
+Accept: application/json
+###
+
+// RESET
+GET {{My_HostAddress}}/reset/
+Accept: application/json
+###

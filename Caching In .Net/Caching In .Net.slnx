@@ -1,3 +1,9 @@
 <Solution>
+  <Project Path="CacheStampede/CacheStampede.csproj" />
+  <Project Path="Clear/Clear.csproj" />
+  <Project Path="FailSafe/FailSafe.csproj" />
+  <Project Path="HybridStampedeBehavior/HybridStampedeBehavior.csproj" />
+  <Project Path="ManualCompaction/ManualCompaction.csproj" />
   <Project Path="MyMemoryCache/MemoryCache.csproj" />
+  <Project Path="Stampede/Stampede.csproj" />
 </Solution>
