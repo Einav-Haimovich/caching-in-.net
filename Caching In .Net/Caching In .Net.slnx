@@ -1,9 +1,14 @@
 <Solution>
   <Project Path="CacheStampede/CacheStampede.csproj" />
   <Project Path="Clear/Clear.csproj" />
+  <Project Path="EagerRefresh/EagerRefresh.csproj" />
+  <Project Path="EagerRefreshFactoryTimeouts/EagerRefreshFactoryTimeouts.csproj" />
+  <Project Path="FactoryTimeouts/FactoryTimeouts.csproj" />
   <Project Path="FailSafe/FailSafe.csproj" />
   <Project Path="HybridStampedeBehavior/HybridStampedeBehavior.csproj" />
+  <Project Path="Immutability/Immutability.csproj" />
   <Project Path="ManualCompaction/ManualCompaction.csproj" />
+  <Project Path="Microcaching/Microcaching.csproj" />
   <Project Path="MyMemoryCache/MemoryCache.csproj" />
   <Project Path="Stampede/Stampede.csproj" />
 </Solution>
