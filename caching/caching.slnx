@@ -1,0 +1,14 @@
+<Solution>
+  <Project Path="stampede-protection/StampedeProtection.csproj" />
+  <Project Path="cache-invalidation/CacheInvalidation.csproj" />
+  <Project Path="eager-refresh/EagerRefresh.csproj" />
+  <Project Path="eager-refresh-timeouts/EagerRefreshTimeouts.csproj" />
+  <Project Path="factory-timeouts/FactoryTimeouts.csproj" />
+  <Project Path="fail-safe/FailSafe.csproj" />
+  <Project Path="hybrid-stampede/HybridStampede.csproj" />
+  <Project Path="cache-immutability/CacheImmutability.csproj" />
+  <Project Path="manual-eviction/ManualEviction.csproj" />
+  <Project Path="micro-caching/MicroCaching.csproj" />
+  <Project Path="custom-implementation/CustomImplementation.csproj" />
+  <Project Path="stampede/Stampede.csproj" />
+</Solution>
