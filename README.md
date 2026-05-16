@@ -119,3 +119,9 @@ k6 run caching/micro-caching/k6/nocache.js
 ```
 
 Open `caching/caching.slnx` in Visual Studio or Rider to browse all projects in one solution.
+
+---
+
+Thanks to Jody Donetti for the course — [Getting Started: Caching in .NET](https://dometrain.com/course/getting-started-caching-in-dotnet/).
+
+[Certificate of completion](<certificate/Caching in .NET - Einav Haimovich.pdf>)
